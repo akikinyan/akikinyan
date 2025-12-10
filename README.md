@@ -80,5 +80,3 @@ with a focus on building reliable systems and long-lasting products that people 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6F42C1.svg?logo=bootstrap&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4CAF50.svg?logo=springboot&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833.svg?logo=jenkins&logoColor=white)
-![MS-DOS](https://img.shields.io/badge/MS--DOS-2E2A24.svg?logo=msdos&logoColor=E95420)
-![N88 BASIC](https://img.shields.io/badge/N88_BASIC-264C99.svg?logo=basic&logoColor=white)
